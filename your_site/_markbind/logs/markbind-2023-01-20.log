@@ -1,0 +1,10 @@
+2023-01-20T07:59:26.209Z - info: Initialization success.
+2023-01-20T07:59:36.306Z - info: Website generation started at 3:59:36 pm
+2023-01-20T07:59:36.394Z - info: Building assets...
+2023-01-20T07:59:36.417Z - info: Assets built
+2023-01-20T07:59:36.418Z - info: Generating pages...
+2023-01-20T07:59:36.540Z - info: Pages built
+2023-01-20T07:59:36.891Z - info: Site data built
+2023-01-20T07:59:36.892Z - info: Website generation complete! Total build time: 0.615s
+2023-01-20T07:59:36.933Z - info: Serving "C:\Users\chany\Documents\NUS\Y3S2\CS3281\init-minimal-netlify-1\your_site\_site" at http://127.0.0.1:8080
+2023-01-20T07:59:36.934Z - info: Press CTRL+C to stop ...
